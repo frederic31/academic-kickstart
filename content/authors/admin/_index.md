@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Frederic van Kleef
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Managig Director at the Aletta Jacobs School of Public Health 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Groningen
+  url: "https://www.rug.nl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My academic interests include societal impact, interdisciplenary health research and public engagement.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Societal Impact
+- Interdisciplenery Health Research
+- Public Engagement
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:frederic.van.kleef@rug.nl".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
