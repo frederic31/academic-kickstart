@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Managig Director at the Aletta Jacobs School of Public Health 
+role: Managing Director at the Aletta Jacobs School of Public Health 
 
 # Organizations/Affiliations
 organizations:
