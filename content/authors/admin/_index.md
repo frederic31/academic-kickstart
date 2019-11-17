@@ -15,10 +15,10 @@ role: Managing Director at the Aletta Jacobs School of Public Health
 # Organizations/Affiliations
 organizations:
 - name: University of Groningen
-  url: "https://www.rug.nl"
+  url: "https://www.rug.nl/aletta"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My academic interests include societal impact, interdisciplenary health research and public engagement.
+bio: My academic interests include societal impact, interdisciplenarity and public engagement.
 
 interests:
 - Societal Impact
@@ -40,12 +40,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: google-scholar
+ # icon_pack: ai
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+ # icon_pack: fab
+  #link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Frederic van Kleef is managing director of the Aletta Jacobs School of Public Health at the University of Groningen. His professional interests include societal impact, network organizations and public engagement.  
+Frederic van Kleef is managing director of the Aletta Jacobs School of Public Health at the University of Groningen. His professional interests include societal impact, interdisciplenarity, network organizations and public engagement.  
