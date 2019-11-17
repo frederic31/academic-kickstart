@@ -62,6 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Frederic van Kleef is managing director of the Aletta Jacobs School of Public Health at the University of Groningen. His research interests include societal impact, interdisciplenary health research and public engagement. The Aletta Jacobs School of Public Health – a joint partnership of the University of Groningen, UMCG and the Hanze University of Applied Sciences – is the proud flag-bearer of healthy ageing in the Northern Netherlands. Rooted in fundamental research, it actively conveys  knowledge and expertise through education, consultancy and integral collaborations. 
