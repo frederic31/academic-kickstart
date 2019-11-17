@@ -62,4 +62,4 @@ user_groups:
 - Visitors
 ---
 
-Frederic van Kleef is managing director of the Aletta Jacobs School of Public Health at the University of Groningen. His research interests include societal impact, interdisciplenary health research and public engagement. The Aletta Jacobs School of Public Health – a joint partnership of the University of Groningen, UMCG and the Hanze University of Applied Sciences – is the proud flag-bearer of healthy ageing in the Northern Netherlands. Rooted in fundamental research, it actively conveys  knowledge and expertise through education, consultancy and integral collaborations. 
+Frederic van Kleef is managing director of the Aletta Jacobs School of Public Health at the University of Groningen. His professional interests include societal impact, network organizations and public engagement.  
